@@ -1,0 +1,18 @@
+.wrapper {
+    padding-left: 40px;
+}
+
+.list-wrapper {
+    list-style: none;
+}
+
+.email-btn {
+    margin: 10px;
+    padding: 10px;
+    color: #2f5b8b;
+    background-color: white;
+    border-color: #2f5b8b;
+    border-width: 1px;
+    border-radius: 8px;
+    border-style: solid;
+}
