@@ -19,10 +19,15 @@ Git
 Create React App
 
 Backend Setup
+
 1.Clone the repository:https://github.com/Bharath292003/tensorGo-project.git
+
 2.Navigate to the backend directory:cd backend
+
 3.Install the dependencies: npm install
+
 4.Create a .env file in the backend directory with the following content:
+
         GOOGLE_CLIENT_ID=your-google-client-id
         GOOGLE_CLIENT_SECRET=your-google-client-secret
         EMAIL_USER=your-email@example.com
