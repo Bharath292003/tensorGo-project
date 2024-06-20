@@ -3,6 +3,30 @@ Invoice Management System
 
 This repository contains a full-stack application for managing invoices. The backend is built with Node.js, Express, and Passport for authentication, while the frontend is built with React. The application includes functionalities for Google authentication, email notifications for due invoices, and integrations with Zapier for automation.
 
+Project Screenshots:
+1. login page
+![Screenshot (193)](https://github.com/Bharath292003/tensorGo-project/assets/98509219/24a818ad-19a0-4196-86a6-70c3b6a296a0)
+
+![Screenshot (194)](https://github.com/Bharath292003/tensorGo-project/assets/98509219/f7c50039-3916-4a7b-9e25-f5385ef44480)
+
+2.Invoices page
+![Screenshot (196)](https://github.com/Bharath292003/tensorGo-project/assets/98509219/081e3500-c874-44ba-8255-d9ffee79f849)
+
+3.Scheduling action
+![Screenshot (197)](https://github.com/Bharath292003/tensorGo-project/assets/98509219/34add5f6-1d7a-40c6-a6ac-1e3e5868b944)
+
+4.Customize Email
+![Screenshot (198)](https://github.com/Bharath292003/tensorGo-project/assets/98509219/d3ef980c-11db-43e9-89b4-f83139689a55)
+
+5.Mail trigger
+![Screenshot (199)](https://github.com/Bharath292003/tensorGo-project/assets/98509219/ae764b22-e148-46b7-be44-2448dfc4cf2d)
+
+![Screenshot (200)](https://github.com/Bharath292003/tensorGo-project/assets/98509219/62d99890-cdc1-4736-b11d-78b03a6d57cd)
+
+6.Mail tracking status
+
+![Screenshot (201)_LI](https://github.com/Bharath292003/tensorGo-project/assets/98509219/8ea8b371-96eb-44be-b69f-5cd27996c672)
+
 Features:
 
 Google OAuth 2.0 authentication
@@ -85,4 +109,5 @@ We welcome contributions! Please read our Contributing Guide for more informatio
 License:
 
 This project is licensed under the MIT License. See the LICENSE file for details.
-![Screenshot (193)](https://github.com/Bharath292003/tensorGo-project/assets/98509219/88b7b7f4-6b5f-411b-ba96-e6deaae92437)
+
+
